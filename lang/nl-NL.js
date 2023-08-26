@@ -27,7 +27,7 @@ export default () => {
         get_tickets: 'Bestel kaarten!',
         about_left_title: 'Wanneer?',
         about_left_text:
-          'Het evenement “Walking Wieringen By Night” vindt gaat dit jaar niet door. We streven er naar om in 2023 de wandeltocht weer te organiseren.  De wandeling is 18 kilometer. Laat u tijdens de wandeling verrassen door het mooie afwisselende landschap van Wieringen dat ook nog eens mooi verlicht zal worden.',
+          'Het evenement “Walking Wieringen By Night” vindt plaats op 23 maart 2024. De wandeling is 18 kilometer. Laat u tijdens de wandeling verrassen door het mooie afwisselende landschap van Wieringen dat ook nog eens mooi verlicht zal worden.',
         about_right_title: 'Waar?',
         about_right_text:
           'De start en finish zijn bij het scouting gebouw in Oosterland aan de Keizerspoeldijk. We vertrekken in groepen per 10 minuten. Het vertrek vindt tussen 19 uur en 20 uur plaats. Houdt uw starttijd aan, u mag wel later starten maar niet eerder!',
