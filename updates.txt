@@ -3,3 +3,4 @@ updated ticket to 2024
 translation typo
 another typo
 postpone tickets
+close sales text
