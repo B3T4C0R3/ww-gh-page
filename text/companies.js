@@ -32,6 +32,7 @@ const companies = [
   'Scouting Corvus Corone',
   'Voetbal vereniging Wiron',
   'Boer Rotgans',
+  'Boer Niels van Duin',
   'Trijn Mulder',
   'Michaelskerk',
   'Ron Schirmann',
